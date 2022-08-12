@@ -2,7 +2,7 @@ This is a fake news detector, using multiple Machine Learning models (Logistic R
 
 I am using data from news_articles.csv.
 
-Currently the accuracy is ~78% after using GridSearchCV on Logistic Regression.
+Currently the accuracy is ~70+% after using GridSearchCV on Logistic Regression.
 
 There will be more improvements to come such as creating better visuals (word clouds, heatmaps, confusion matrix, etc.).
 
